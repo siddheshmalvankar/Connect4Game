@@ -26,10 +26,10 @@ namespace Ka4.WebApi.Controllers
         }
         
         // GET api/ka4
-        [HttpGet]
-        public string GetState()
-        {           
-            return "Web Api Service running.....";
+        [HttpGet]       
+        public ActionResult<string> GetApiState()
+        {
+            return "Connect 4 Api is running in the background...";
         }
 
         [HttpGet]

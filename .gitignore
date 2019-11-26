@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Connect4Service/.vs/Connect4Service/v15
+/Connect4Service/Ka4.Core/bin/Debug
+/Connect4Service/Ka4.Core/obj/Debug
+/Connect4Service/Ka4.WebApi/bin/Debug/net461
+/Connect4Service/Ka4.WebApi/obj
+/Connect4Service/Ka4.Core/bin/Debug
+/connect4UI/node_modules
