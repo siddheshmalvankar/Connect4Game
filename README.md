@@ -1,2 +1,2 @@
 # Connect4Game
-Connect 4 Game 
+Please follow below steps to execute the program
