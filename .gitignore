@@ -10,3 +10,4 @@
 /Connect4Service/Ka4.WebApi/obj
 /Connect4Service/Ka4.Core/bin/Debug
 /connect4UI/node_modules
+/Connect4Service/.vs/config/applicationhost.config
